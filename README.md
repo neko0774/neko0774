@@ -1,16 +1,15 @@
-### Hi there 👋
+### はーろー
 
-<!--
-**neko0774/neko0774** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## プロファイル<br>
+高校生<br>
+python/cpp/(rust)<br>
+CTF/競プロ/(os_dev)/低レイヤー/ポーカー<br>
+英語と日本語が流暢に話せません<br>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## profile<br>
+high school student<br>
+python/cpp/(rust)<br>
+Interested in CTF, competitive coding, os dev, low layer, poker<br>
+can speak Japanese and English<br>
