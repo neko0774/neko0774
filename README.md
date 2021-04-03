@@ -4,7 +4,6 @@
 高校生<br>
 python/cpp/(rust)<br>
 CTF/競プロ/(os_dev)/低レイヤー/ポーカー<br>
-英語と日本語が流暢に話せません<br>
 
 
 
