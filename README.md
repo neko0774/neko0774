@@ -1,7 +1,7 @@
 ### Hello
 
 ## プロファイル<br>
-高校生<br>
+高校生 I realised that I am already a uni student, umm<br>
 python/(cpp)/rust<br>
 CTF/競プロ/(os_dev)/低レイヤー/ポーカー<br>
 
